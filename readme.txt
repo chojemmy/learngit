@@ -7,3 +7,5 @@ git tracks changes
 练习git的项目，可能内容有点少
 
 现在我修改了ssh key ，看是否还能进行同步。
+
+现在还修改了ssh key pub 现在看看是否还能同步
